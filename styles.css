@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+    /* Black background */
+    background-image: url('PingPong.jpg');
+    /* Path to your space image */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #fff;
+    /* White text color */
+    font-family: Arial, sans-serif;
+    /* Font family for text */
+}
+
+.card {
+    margin: 0 auto;
+    /* Center the card horizontally */
+    margin-top: 50px;
+    /* Optional: Add top margin for spacing */
+}
